@@ -1,0 +1,4 @@
+botbuilder-dialogs>=4.5.0.b5
+botbuilder-ai>=4.5.0.b5
+datatypes-date-time>=1.0.0.a2
+

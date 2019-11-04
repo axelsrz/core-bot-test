@@ -1,0 +1,10 @@
+version: '2.1'
+
+services:
+  core-bot-test:
+    image: core-bot-test
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 3978:3978
